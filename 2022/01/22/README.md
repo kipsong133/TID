@@ -422,3 +422,33 @@ observable
 2. 옵저버는 데이터를 받으면 어떻게 처리할 지를 구현한다.
 3. 옵저버블과 옵저버는 subscribe 메소드로 연결한다.
 
+
+## interval 메소드와 dispose를 이용한 옵저버블 동작 중단하기
+---
+
+```swift
+
+let timer = Observable<Int>.interval(
+    .seconds(1),
+    scheduler: MainScheduler.instance)
+    .subscribe(
+        onNext: { element in
+            print("onNext: \(element)")
+        },
+        onError: { error in
+            print("onError: \(error)")
+        },
+        onCompleted: {
+            print("onCompleted: 호출")
+        },
+        onDisposed: {
+            print("onDisposed: 호출")
+        })
+
+/* dispose를 활용하여 옵저버블 동작을 중단시키는 방법 */
+/* 이렇게하면 completed가 전달되지 않는다. 추천하는 방법은 "takeUntil" 연산자를 활용하자. */
+DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+    timer.dispose()
+}
+
+```
