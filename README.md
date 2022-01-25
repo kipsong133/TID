@@ -9,3 +9,4 @@
 |01.22|RxSwift Observable & Observer 등에 대한 개념 정리|https://github.com/kipsong133/TID/tree/main/2022/01/22|
 |01.23|객체지향 프로그래밍 in Swift|https://github.com/kipsong133/TID/tree/main/2022/01/23| 
 |01.24|의존성주입(DI, Dependency Injection)|https://github.com/kipsong133/TIL/tree/main/2022/01/24|
+|01.25|RxSwift에 대한 감상문|https://github.com/kipsong133/TIL/tree/main/2022/01/25|
