@@ -12,3 +12,6 @@
 |01.25|RxSwift에 대한 감상문|https://github.com/kipsong133/TIL/tree/main/2022/01/25|
 |01.26|RxSswift 복숩|https://github.com/kipsong133/TIL/tree/main/2022/01/26|
 |01.27|RxCoca, Signal & Driver|https://github.com/kipsong133/TIL/tree/main/2022/01/27|
+|01.28|Compositional Layouts|https://github.com/kipsong133/TIL/tree/main/2022/01/28|
+|01.29|Render Loop|dd|
+|01.30|Rx를 이용하여 UITableView구현하기|ㅇ|
