@@ -16,3 +16,4 @@
 |01.29|Render Loop|https://github.com/kipsong133/TIL/tree/main/2022/01/29|
 |01.30|Rx를 이용하여 UITableView구현하기|https://github.com/kipsong133/TIL/tree/main/2022/01/30|
 |01.31|Data Structure (Array/Queue/Stack)|https://github.com/kipsong133/TIL/tree/main/2022/01/31|
+|02.01|Data Structure (LinkedList) | https://github.com/kipsong133/TIL/tree/main/2022/02/01|
