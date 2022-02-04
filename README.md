@@ -10,7 +10,7 @@
 |01.23|객체지향 프로그래밍 in Swift|https://github.com/kipsong133/TID/tree/main/2022/01/23| 
 |01.24|의존성주입(DI, Dependency Injection)|https://github.com/kipsong133/TIL/tree/main/2022/01/24|
 |01.25|RxSwift에 대한 감상문|https://github.com/kipsong133/TIL/tree/main/2022/01/25|
-|01.26|RxSswift 복숩|https://github.com/kipsong133/TIL/tree/main/2022/01/26|
+|01.26|RxSswift 복습|https://github.com/kipsong133/TIL/tree/main/2022/01/26|
 |01.27|RxCoca, Signal & Driver|https://github.com/kipsong133/TIL/tree/main/2022/01/27|
 |01.28|Compositional Layouts|https://github.com/kipsong133/TIL/tree/main/2022/01/28|
 |01.29|Render Loop|https://github.com/kipsong133/TIL/tree/main/2022/01/29|
