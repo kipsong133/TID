@@ -20,3 +20,5 @@
 |02.02|TCP, IP 그리고 HTTP| https://github.com/kipsong133/TIL/tree/main/2022/02/02|
 |02.03|DataStructure(HashTable)|https://github.com/kipsong133/TIL/tree/main/2022/02/03|
 |02.04|SwiftUI Body와 불투명타입에 관하여|https://github.com/kipsong133/TIL/tree/main/2022/02/04|
+|02.05|SwiftUI에서 ViewBuilder란? |https://github.com/kipsong133/TIL/tree/main/2022/02/05|
+|02.06|SwiftUI로 BottomSheet 만들기|https://github.com/kipsong133/TIL/tree/main/2022/02/06|
