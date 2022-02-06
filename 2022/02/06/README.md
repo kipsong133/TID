@@ -5,8 +5,6 @@
 <완성화면>
 ![Simulator Screen Recording - iPhone 13 Pro - 2022-02-06 at 14 59 24](https://user-images.githubusercontent.com/65879950/152669594-0909d361-55f0-470e-b70a-8c2a90b7b258.gif)
 
-
-
 ## 구현
 
  BottomSheet를 구현하기 위해서 먼저 구상해야할 것들이 있습니다.
