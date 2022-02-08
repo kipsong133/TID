@@ -23,3 +23,4 @@
 |02.05|SwiftUI에서 ViewBuilder란? |https://github.com/kipsong133/TIL/tree/main/2022/02/05|
 |02.06|SwiftUI로 BottomSheet 만들기|https://github.com/kipsong133/TIL/tree/main/2022/02/06|
 |02.07|GCD, DispatchGroup|https://github.com/kipsong133/TIL/tree/main/2022/02/07| 
+|02.08|SwiftUI에서 프로퍼티|https://github.com/kipsong133/TIL/tree/main/2022/02/08| 
