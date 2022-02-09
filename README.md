@@ -24,3 +24,4 @@
 |02.06|SwiftUI로 BottomSheet 만들기|https://github.com/kipsong133/TIL/tree/main/2022/02/06|
 |02.07|GCD, DispatchGroup|https://github.com/kipsong133/TIL/tree/main/2022/02/07| 
 |02.08|SwiftUI에서 프로퍼티|https://github.com/kipsong133/TIL/tree/main/2022/02/08| 
+|02.09|SwiftUI에서 Single Source of Truth|https://github.com/kipsong133/TIL/tree/main/2022/02/09| 
