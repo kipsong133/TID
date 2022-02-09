@@ -1,13 +1,10 @@
 # Today, I learned: SwiftUI에서 Single Source of Truth
 
-
-
 ## Single Source of Truth
 
  WWDC 20에서 소개된 SwiftUI 자료 중, 다음과 같은 단어가 상당히 자주 보입니다.
 
 ![스크린샷 2022-02-09 12 22 28](https://user-images.githubusercontent.com/65879950/153115907-602a5d0a-a06d-408c-844d-4c8c12a72324.png)
-
 
 (이 그림은 WWDC20, Introduction SwiftUI에서 나온 사진 일부입니다.)
 
@@ -136,12 +133,6 @@ struct ContentView_Previews: PreviewProvider {
 
 
 읽어주셔서 감사합니다.
-
-
-
-
-
-
 
 
 
