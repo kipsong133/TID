@@ -25,3 +25,4 @@
 |02.07|GCD, DispatchGroup|https://github.com/kipsong133/TIL/tree/main/2022/02/07| 
 |02.08|SwiftUI에서 프로퍼티|https://github.com/kipsong133/TIL/tree/main/2022/02/08| 
 |02.09|SwiftUI에서 Single Source of Truth|https://github.com/kipsong133/TIL/tree/main/2022/02/09| 
+|02.10|SwiftUI Binding Example|https://github.com/kipsong133/TIL/tree/main/2022/02/10| 
