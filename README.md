@@ -29,3 +29,4 @@
 |02.11|State-Binding + PopView|https://github.com/kipsong133/TIL/tree/main/2022/02/11| 
 |02.12|RxSwift를 이용한 네트워킹 예제|https://github.com/kipsong133/TIL/tree/main/2022/02/12| 
 |02.13| SwiftUI ObservableObject|https://github.com/kipsong133/TIL/tree/main/2022/02/13| 
+|02.14| SwiftUI ObservedObject|https://github.com/kipsong133/TIL/tree/main/2022/02/14| 
