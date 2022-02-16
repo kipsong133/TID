@@ -31,3 +31,4 @@
 |02.13|SwiftUI ObservableObject|https://github.com/kipsong133/TIL/tree/main/2022/02/13| 
 |02.14|SwiftUI ObservedObject|https://github.com/kipsong133/TIL/tree/main/2022/02/14| 
 |02.15|SwiftUI @AppStorage|https://github.com/kipsong133/TIL/tree/main/2022/02/15| 
+|02.16|SwiftUI EnvironemntObject|https://github.com/kipsong133/TIL/tree/main/2022/02/16| 
