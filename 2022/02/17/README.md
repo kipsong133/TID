@@ -102,8 +102,6 @@ struct Task: Identifiable {
 ![image](https://user-images.githubusercontent.com/65879950/154430530-122b4600-e507-4022-abaf-3fc39c9dc682.png)
 
 
-
-
 ## 3. 정리
 
  보면, ObservableObject라는 이름 대신에 ViewModel이라고만 붙이면 MVVM 아키텍쳐 패턴으로 구성됩니다. 다만 이번에는 가장 작은 컴포넌트 단위를 알아보기 위해서 ObservableObject라고 이름을 붙였습니다. 이곳에 Combine을 엮기 시작하면, 정말 아름다워지겠죠?^^
@@ -117,8 +115,4 @@ struct Task: Identifiable {
 
 
 읽어주셔서 감사합니다.
-
-
-
-
 
