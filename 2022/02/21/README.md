@@ -132,7 +132,7 @@ List {
 - Section의 해더는 "Pick Appearance" 입니다.
 - Picker의 이름에는 Pick을 넣어주시고, ForEach문에 보면, Appearance를 순회하고 있죠. 이것이 이전에 CaseIterable 프로토콜 채택의 효과입니다. 각각을 순회하면서 name 연산프로퍼티의 값을 받아 Text에 할당합니다. 그러면 아래 그림처럼 나타납니다.
 
-<img src="/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220221130718542.png" alt="image-20220221130718542" style="zoom:33%;" />
+<img width="361" alt="스크린샷 2022-02-21 13 38 27" src="https://user-images.githubusercontent.com/65879950/154890218-ab34311c-5a89-4fc3-95f1-4f7bc6379b50.png">
 
 - 현재 Appearnce Picker를 아무리 선택해도 아무일도 일어나지 않습니다.
 - 왜냐하면, 데이터의 name만 보여줬지, 어떤 데이터와 연결되었는지 pickker입장에서는 전혀 알 수 없는 상태입니다. 이럴 때, 사용하는 수식어가 `tag`입니다.
@@ -149,8 +149,9 @@ Text(appearance.name).tag(appearance)
 
 그러면 아래와 같이 동작하게됩니다.
 
-![Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13.08.52](/Users/kimwoosung/Desktop/Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13.08.52.gif)
 
+
+![Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13 08 52](https://user-images.githubusercontent.com/65879950/154890239-913d5985-d8d6-4a54-80fa-009817ba794c.gif)
 
 
 ##### Tag(_:)
@@ -215,7 +216,8 @@ WindowGroup {
 
 이렇게 코드를 설정한 후, 실행하면 다음과 같은 화면이 나타납니다.
 
-![Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13.24.53](/Users/kimwoosung/Desktop/Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13.24.53.gif)
+![Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-21 at 13 24 53](https://user-images.githubusercontent.com/65879950/154890251-f12643c6-3d41-43db-8636-28f1f633bd75.gif)
+
 
 
 
