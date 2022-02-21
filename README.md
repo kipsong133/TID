@@ -35,5 +35,6 @@
 |02.17|SwiftUI Basic Architecture|https://github.com/kipsong133/TIL/tree/main/2022/02/17| 
 |02.18|컴포지션에 대한 짧은 생각|https://github.com/kipsong133/TIL/tree/main/2022/02/18| 
 |02.19| SwiftUI Testing Basic(1)|https://github.com/kipsong133/TIL/tree/main/2022/02/19| 
-|02.20| SwiftUI LayoutPriority|https://github.com/kipsong133/TIL/tree/main/2022/02/20| 
+|02.20| SwiftUI LayoutPriority|https://github.com/kipsong133/TIL/tree/main/2022/02/20|
+|02.21| SwiftUI로 ColorScheme 변경하기|https://github.com/kipsong133/TIL/tree/main/2022/02/21|
 
