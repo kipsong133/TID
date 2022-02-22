@@ -1,4 +1,4 @@
-Today, I learned: SwiftUI FlashCard 만들기
+# Today, I learned: SwiftUI FlashCard 만들기
  오늘은 SwiftUI를 통해서 FlashCard를 만들면서 개념들을 정리해보려고합니다.
 
 
@@ -307,7 +307,7 @@ struct DeckView: View {
 
 
 
-정리
+## 정리
 이번에 사용한 개념들을 정리해보겠습니다.
 
 ObservableObject 를 구성하여, 외부객체의 프로퍼티로부터 View의 UI를 업데이트하도록 구성했습니다.
