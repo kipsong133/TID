@@ -319,3 +319,5 @@ DragGesture 와 translation 프로퍼티를 이용해서 객체의 위치 변경
 마지막으로는 offset 과 gesuter 를 추가해주면서 위에 구성한 드래그와 이동하는 애니메이션이 동작하도록 했습니다.
 
 읽어주셔서 감사합니다.
+## 참고자료
+- https://www.raywenderlich.com/books/swiftui-by-tutorials/v4.0/chapters/11-gestures#toc-chapter-015-anchor-001
