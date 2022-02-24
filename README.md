@@ -38,4 +38,5 @@
 |02.20| SwiftUI LayoutPriority|https://github.com/kipsong133/TIL/tree/main/2022/02/20|
 |02.21| SwiftUI로 ColorScheme 변경하기|https://github.com/kipsong133/TIL/tree/main/2022/02/21|
 |02.22| SwiftUI FlashCard 만들기|https://github.com/kipsong133/TIL/tree/main/2022/02/22|
-|02.23|Today, I learned: SwiftUI Function Builders(현, ResultBuilder)|https://github.com/kipsong133/TIL/tree/main/2022/02/23|
+|02.23|SwiftUI Function Builders(현, ResultBuilder)|https://github.com/kipsong133/TIL/tree/main/2022/02/23|
+|02.24|SwiftUI 아름다운 Button 만들기 예제|https://github.com/kipsong133/TIL/tree/main/2022/02/24|
