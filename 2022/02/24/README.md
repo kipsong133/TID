@@ -253,4 +253,8 @@ Text("회원가입")
 
 
 ## 참고자료
-- DesignCode, Advanced SwiftUI lesson 3
+- DesignCode, Advanced SwiftUI lesson 3 (https://designcode.io)
+- https://developer.apple.com/documentation/swiftui/view/blur(radius:opaque:)
+- https://developer.apple.com/documentation/swiftui/angulargradient
+- https://developer.apple.com/documentation/swiftui/view/blendmode(_:)
+- https://developer.apple.com/documentation/swiftui/view/mask(_:)
