@@ -1,0 +1,82 @@
+# Today, I learned:Packge 만들어서 프로젝트에 추가하기
+
+ 오늘은 객체들을 모듈화하기 위한 Package 생성 방법에 대해 정리해보겠습니다.
+
+
+
+## 구현
+
+ 간단하게 프로젝트를 하나 만들어줍니다.
+
+
+
+
+
+Xcode 탭바 중에서 File > new > Package 를 클릭합니다.
+
+![image-20220228175336007](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228175336007.png)
+
+
+
+![스크린샷 2022-02-28 17.54.58](/Users/kimwoosung/Desktop/스크린샷 2022-02-28 17.54.58.png)
+
+ 클릭하시고, 원하는 이름으로 저장하시되 , 하단에 있는 앱을 잘 선택해주세요~!
+
+
+
+그리고 Sources 폴더에 생성된 초기 파일로 이동해보겠습니다.
+
+![image-20220228175620756](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228175620756.png)
+
+
+
+
+
+```swift
+public struct Networking {
+    public var text = "Hello, World!"
+
+    public init(text: String) {
+        self.text = text
+    }
+}
+```
+
+ 간단한 코드를 작성합니다.
+
+
+
+프로젝트 > Target 에서 노랑색 박스 부분에 라이브러리를 추가해줍니다.
+
+![스크린샷 2022-02-28 18.01.19](/Users/kimwoosung/Desktop/스크린샷 2022-02-28 18.01.19.png)
+
+
+
+당연히 방금 생성한 패키지를 추가해주면 됩니다.
+
+![image-20220228180217219](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228180217219.png)
+
+
+
+그리고 간단하게 ContentView.swift에서 호출해보겠습니다.
+
+![image-20220228180613017](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228180613017.png)
+
+- `Networking` 이라고 새로만든 패키지가 정상적으로 추가되었죠?
+- 그리고 상수로 간단하게 생성하고 있습니다.
+- 해당 값을 Text 에 랜더링하고 있습니다.
+
+
+
+## 정리
+
+ 이번 실습은 단순히 패키지를 생성해봤습니다. 이렇게 굳이 프로젝트를 나눈 이유는 다음과 같습니다.
+
+- 많은 개발자들이 협업을 하게 될 때, 각각의 패키지만 건들면 되므로 협엽에 용이하다.
+- 다양한 프로덕트에 공통적으로 사용되는 모듈을 뽑아서 중복되는 코드를 피할 수 있다.
+- 패키지 빌드할 때, 빌드되기 때문에, 하위 모듈에 있을 때보다, 빌드 시간을 단축을 기대할 수도 있다.(상황에 따라 다름)
+- 모듈화된 아키텍처로 앱을 만들기 좋은 구조다.
+
+
+
+읽어주셔서 감사합니다.
