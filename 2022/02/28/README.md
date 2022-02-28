@@ -8,17 +8,15 @@
 
  간단하게 프로젝트를 하나 만들어줍니다.
 
-
-
-
+<img width="1275" alt="image" src="https://user-images.githubusercontent.com/65879950/155955937-076f54be-3007-42d3-98bc-4c5c8b2266ba.png">
 
 Xcode 탭바 중에서 File > new > Package 를 클릭합니다.
 
-![image-20220228175336007](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228175336007.png)
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/65879950/155955969-91c69dd1-e529-4885-9019-b3f3c73d5410.png">
 
 
+<img width="1039" alt="image" src="https://user-images.githubusercontent.com/65879950/155956010-75e6f042-db50-404d-9536-9627e751779a.png">
 
-![스크린샷 2022-02-28 17.54.58](/Users/kimwoosung/Desktop/스크린샷 2022-02-28 17.54.58.png)
 
  클릭하시고, 원하는 이름으로 저장하시되 , 하단에 있는 앱을 잘 선택해주세요~!
 
@@ -26,7 +24,8 @@ Xcode 탭바 중에서 File > new > Package 를 클릭합니다.
 
 그리고 Sources 폴더에 생성된 초기 파일로 이동해보겠습니다.
 
-![image-20220228175620756](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228175620756.png)
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/65879950/155956045-1df17383-9ecd-4fd3-997e-757a994388c7.png">
+
 
 
 
@@ -48,19 +47,22 @@ public struct Networking {
 
 프로젝트 > Target 에서 노랑색 박스 부분에 라이브러리를 추가해줍니다.
 
-![스크린샷 2022-02-28 18.01.19](/Users/kimwoosung/Desktop/스크린샷 2022-02-28 18.01.19.png)
+<img width="1147" alt="image" src="https://user-images.githubusercontent.com/65879950/155956078-7a79868a-6839-4528-b9d2-0fa68e383f24.png">
+
 
 
 
 당연히 방금 생성한 패키지를 추가해주면 됩니다.
 
-![image-20220228180217219](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228180217219.png)
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/65879950/155956102-cdd1205b-7572-44ec-b742-6caf26918bab.png">
+
 
 
 
 그리고 간단하게 ContentView.swift에서 호출해보겠습니다.
 
-![image-20220228180613017](/Users/kimwoosung/Library/Application Support/typora-user-images/image-20220228180613017.png)
+<img width="1281" alt="image" src="https://user-images.githubusercontent.com/65879950/155956137-fcdf3c38-b888-4e6e-9a34-37d595456f49.png">
+
 
 - `Networking` 이라고 새로만든 패키지가 정상적으로 추가되었죠?
 - 그리고 상수로 간단하게 생성하고 있습니다.
