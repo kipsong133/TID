@@ -1,3 +1,5 @@
+# Duplicate symbol Error
+
 에러 중에서 다음과 같은 에러가 발생할 때가 있습니다.
 
 > 1~N duplicate symbols for architecture arm64
