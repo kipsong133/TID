@@ -50,4 +50,4 @@
 |05.12|[Flutter][Basic] Dart 문법 Cheat Sheet|https://github.com/kipsong133/TIL/tree/main/2022/05/12|
 |05.13|[Flutter][Libary] Beamer 사용방법 간단 정리|https://github.com/kipsong133/TIL/tree/main/2022/05/13|
 |05.19|[Swift]Duplicate symbol Error|https://github.com/kipsong133/TIL/tree/main/2022/05/19|
-|05.19|[Flutter][Error][Xcode][Pod] Error pod install…에러 발생 시, 대처방법 리스트|https://github.com/kipsong133/TIL/tree/main/2022/06/03|
+|06.03|[Flutter][Error][Xcode][Pod] Error pod install…에러 발생 시, 대처방법 리스트|https://github.com/kipsong133/TIL/tree/main/2022/06/03|
