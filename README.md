@@ -52,3 +52,5 @@
 |05.19|[Swift]Duplicate symbol Error|https://github.com/kipsong133/TIL/tree/main/2022/05/19|
 |06.03|[Flutter][Error][Xcode][Pod] Error pod install…에러 발생 시, 대처방법 리스트|https://github.com/kipsong133/TIL/tree/main/2022/06/03|
 |07.19|[Flutter] InheritedWidget|https://github.com/kipsong133/TIL/tree/main/2022/07/19|
+|07.20|[dart][language] Dart 의 Mixin 정리|https://github.com/kipsong133/TIL/tree/main/2022/07/20|
+
