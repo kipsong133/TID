@@ -54,5 +54,5 @@
 |07.19|[Flutter] InheritedWidget|https://github.com/kipsong133/TIL/tree/main/2022/07/19|
 |07.20|[dart][language] Dart 의 Mixin 정리|https://github.com/kipsong133/TIL/tree/main/2022/07/20|
 |07.29|[dart]Dart에서 Futures 그리고 Streams (1)|https://github.com/kipsong133/TIL/tree/main/2022/07/29|
-|10.02|[paradigm] 반응형 프로그래밍 (1) |https://github.com/kipsong133/TIL/tree/main/2022/07/29|
+|10.02|[paradigm] 반응형 프로그래밍 (1) |https://github.com/kipsong133/TIL/tree/main/2022/10/02|
 
